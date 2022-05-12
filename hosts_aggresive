@@ -1,6 +1,81 @@
 # AFTERPAY
-
 0.0.0.0 js.afterpay.com
 0.0.0.0 portal.afterpay.com
 0.0.0.0 afterpay.com
+0.0.0.0 static.afterpay.com
+0.0.0.0 spg.afterpay.com
 0.0.0.0 www.afterpay.com
+
+# Zip Pay / QuadPay
+0.0.0.0 zip.co
+0.0.0.0 www.zip.co
+
+# PayPal Pay in 4
+
+# Amazon
+
+# ShopPay
+0.0.0.0 shop.app
+0.0.0.0 www.shop.app
+
+# Sezzle
+0.0.0.0 sezzle.com
+0.0.0.0 www.sezzle.com
+0.0.0.0 checkout.sezzle.com
+0.0.0.0 api.sezzle.com
+0.0.0.0 tracking.sezzle.com
+0.0.0.0 gitlab.sezzle.com
+0.0.0.0 media.sezzle.com
+0.0.0.0 geoio.sezzle.com
+
+# Klarna
+0.0.0.0 klarna.com
+0.0.0.0 klarnapayments.com
+0.0.0.0 www.klarnapayments.com
+0.0.0.0 cdn.klarna.com
+0.0.0.0 x.klarnacdn.net
+0.0.0.0 eu.klarnaevt.com
+0.0.0.0 js.klarna.com
+0.0.0.0 didfp.klarna.com
+0.0.0.0 na.klarnaevt.com
+0.0.0.0 klarnaevt.com
+0.0.0.0 klarnacdn.net
+0.0.0.0 klarnapayments.com
+0.0.0.0 klarna.com
+0.0.0.0 www.klarnaevt.com
+0.0.0.0 www.klarnacdn.net
+0.0.0.0 www.klarnapayments.com
+0.0.0.0 www.klarna.com
+
+# PayWithFour
+0.0.0.0 paywithfour.com
+0.0.0.0 www.paywithfour.com
+0.0.0.0 scripts.paywithfour.com
+0.0.0.0 shopper.paywithfour.com
+0.0.0.0 integrations.paywithfour.com
+
+# SplitIt
+0.0.0.0 splitit.com
+0.0.0.0 www.splitit.com
+
+# Affirm
+0.0.0.0 affirm.com
+0.0.0.0 www.affirm.com
+0.0.0.0 cdn1.affirm.com
+0.0.0.0 tracker.affirm.com
+0.0.0.0 www.affirm.com
+0.0.0.0 shopify.affirm.com
+
+# Zebit
+0.0.0.0 zebit.com
+0.0.0.0 www.zebit.com
+0.0.0.0 account.zebbit.com
+
+# Perpay
+0.0.0.0 perpay.com
+0.0.0.0 www.perpay.com
+0.0.0.0 app.perpay.com
+0.0.0.0 ui.perpay.com
+
+
+
