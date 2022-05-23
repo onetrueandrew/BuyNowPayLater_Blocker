@@ -28,3 +28,9 @@ Affirm
 Zebit
 
 Perpay
+
+FuturePay / QuadTab
+
+ViaBill
+
+PayBright
