@@ -9,6 +9,8 @@
 # Zip Pay / QuadPay
 0.0.0.0 zip.co
 0.0.0.0 www.zip.co
+0.0.0.0 quadpay.com
+0.0.0.0 www.quadpay.com
 
 # PayPal Pay in 4
 
@@ -77,5 +79,21 @@
 0.0.0.0 app.perpay.com
 0.0.0.0 ui.perpay.com
 
+# FuturePay / QuadTab (coming soon)
+0.0.0.0 futurepay.com
+0.0.0.0 www.futurepay.com
 
+# GoCardless
 
+# ViaBill
+0.0.0.0 viabill.com
+0.0.0.0 www.viabill.com
+
+# PayBright
+0.0.0.0 paybright.com
+0.0.0.0 www.paybright.com
+0.0.0.0 ca.paybright.com
+0.0.0.0 us.paybright.com
+0.0.0.0 assets.paybright.com
+0.0.0.0 app.paybright.com
+0.0.0.0 cdn.paybright.com
