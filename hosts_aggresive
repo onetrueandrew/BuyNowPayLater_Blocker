@@ -84,6 +84,10 @@
 0.0.0.0 www.futurepay.com
 
 # GoCardless
+0.0.0.0 gocardless.com
+0.0.0.0 www.gocardless.com
+0.0.0.0 manage.gocardless.com
+0.0.0.0 api.gocardless.com
 
 # ViaBill
 0.0.0.0 viabill.com
